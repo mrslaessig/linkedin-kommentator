@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-kommentator-server",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Lokaler Server für die Chrome-Erweiterung LinkedIn Kommentator",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}

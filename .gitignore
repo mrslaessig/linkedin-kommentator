@@ -1,0 +1,8 @@
+# Persönlicher Stil und Profil bleiben lokal
+skill.md
+profil.md
+
+server/.env
+.env
+node_modules/
+.DS_Store
